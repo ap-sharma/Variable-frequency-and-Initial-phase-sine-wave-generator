@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Dout",
+					"strict" : false
+				},
+				{
+					"name" : "CS",
+					"strict" : false
+				},
+				{
+					"name" : "Sclk",
+					"strict" : false
+				},
+				{
+					"name" : "LDAC",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50MHz",
+					"strict" : false
+				},
+				{
+					"name" : "oncycle[0]",
+					"strict" : false
+				},
+				{
+					"name" : "oncycle[1]",
+					"strict" : false
+				},
+				{
+					"name" : "oncycle[2]",
+					"strict" : false
+				},
+				{
+					"name" : "oncycle[3]",
+					"strict" : false
+				},
+				{
+					"name" : "offcycle[1]",
+					"strict" : false
+				},
+				{
+					"name" : "offcycle[0]",
+					"strict" : false
+				},
+				{
+					"name" : "offcycle[3]",
+					"strict" : false
+				},
+				{
+					"name" : "offcycle[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

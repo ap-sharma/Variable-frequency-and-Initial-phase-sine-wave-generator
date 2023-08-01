@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Thu Sep 01 15:04:35 2022
+Quartus Prime Version : 18.1.1 Build 646 04/11/2019 SJ Lite Edition
+Revision Name : MCP4921
+Top-level Entity Name : MCP4921
+Family : MAX 10
+Device : 10M25SAE144C8G
+Power Models : Final
+Total Thermal Power Dissipation : 282.12 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 223.40 mW
+I/O Thermal Power Dissipation : 58.72 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
